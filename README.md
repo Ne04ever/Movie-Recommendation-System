@@ -22,7 +22,7 @@ The application provides two main features:
 
 1. **Clone the repository**
 ```bash
-git clone <https://github.com/Ne04ever/Movie-Recommendation-System.git>
+git clone https://github.com/Ne04ever/Movie-Recommendation-System.git
 cd movie-recommender
 ```
 
