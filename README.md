@@ -10,7 +10,7 @@ A content-based movie recommendation system built with Python and Streamlit that
 - **Real-time Poster Fetching**: Automatically fetches movie posters from The Movie Database (TMDb) API
 - **Content-Based Filtering**: Uses cosine similarity on movie tags for accurate recommendations
 
-## 🚀 Demo []
+## 🚀 Demo [https://movie-recommendation-system-egluzq5y49zydpzn4afpyq.streamlit.app/]
 
 The application provides two main features:
 1. **Recommend Tab**: Select a movie and get 5 similar recommendations
